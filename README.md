@@ -3,7 +3,7 @@ Implementation of simple CNN on MNIST, VGG16 and Alexnet on Pascal VOC dataset
 
 1) 00_mnist.py: Contains code for MNIST 10-digit classification in Tensorflow
 
-2) 01_pascal.py: CNN architecture for MNIST for Pascal VOC dataset
+2) 01_pascal.py: CNN architecture for MNIST on Pascal VOC dataset
 
 3) 02_pascal_alexnet.py: Alexnet on Pascal VOC
 
