@@ -1,4 +1,4 @@
-# CNNs-with-Tensorflow
+# Multi-label Image Classification using Tensorflow
 Implementation of simple CNN on MNIST, VGG16 and Alexnet on Pascal VOC dataset
 
 1) 00_mnist.py: Contains code for MNIST 10-digit classification in Tensorflow
